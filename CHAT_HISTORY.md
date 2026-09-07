@@ -14,7 +14,7 @@ a rainsensor with servo with uno
 
 ---
 
-### 🤖 Antigravity Assistant (`2026-09-07T05:38:13Z`)
+### 🤖 AI Assistant (`2026-09-07T05:38:13Z`)
 
 Here is a complete guide and Arduino code for building an **Automatic Rain-Sensing Servo System** using an **Arduino Uno**, a **Rain Sensor module (FC-37 / YL-83)**, and a **Servo Motor (SG90 / MG90S)** (commonly used for smart wipers, automatic window closers, or rain shelters).
 
@@ -149,19 +149,19 @@ you upload
 
 ---
 
-### 🤖 Antigravity Assistant (`2026-09-07T05:41:04Z`)
+### 🤖 AI Assistant (`2026-09-07T05:41:04Z`)
 
 I am checking your system for connected Arduino devices (found `COM5`) and searching for the Arduino toolchain to compile and upload the sketch. I'll update you as soon as it's ready.
 
 ---
 
-### 🤖 Antigravity Assistant (`2026-09-07T05:43:45Z`)
+### 🤖 AI Assistant (`2026-09-07T05:43:45Z`)
 
 I have uploaded the code to your Arduino Uno.
 
 ### Summary of Actions Taken:
 1. **Device Detected**: Arduino board identified on **`COM5`** (`USB-SERIAL CH340`).
-2. **Created Sketch**: Saved project file to `C:\Users\matha\.gemini\antigravity\scratch\rain_sensor_servo\rain_sensor_servo.ino`.
+2. **Created Sketch**: Saved project file to `C:\Users\matha\.gemini\Developer Logs\scratch\rain_sensor_servo\rain_sensor_servo.ino`.
 3. **Installed Dependencies**: Configured and installed the **`Servo`** library.
 4. **Compiled & Uploaded**: Successfully compiled the binary and flashed it to **COM5**.
 
@@ -186,9 +186,9 @@ give code
 
 ---
 
-### 🤖 Antigravity Assistant (`2026-09-07T05:45:28Z`)
+### 🤖 AI Assistant (`2026-09-07T05:45:28Z`)
 
-Here is the complete Arduino code that is uploaded to your board (also saved at `C:\Users\matha\.gemini\antigravity\scratch\rain_sensor_servo\rain_sensor_servo.ino`):
+Here is the complete Arduino code that is uploaded to your board (also saved at `C:\Users\matha\.gemini\Developer Logs\scratch\rain_sensor_servo\rain_sensor_servo.ino`):
 
 ```cpp
 #include <Servo.h>
@@ -263,7 +263,7 @@ servo not move
 
 ---
 
-### 🤖 Antigravity Assistant (`2026-09-07T05:49:23Z`)
+### 🤖 AI Assistant (`2026-09-07T05:49:23Z`)
 
 I have uploaded an updated **Diagnostic & Auto-Calibrated sketch** to your Arduino Uno on **COM5**.
 
